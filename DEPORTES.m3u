@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latin America", LATINO: win sport
+https://tv.teleclub.xyz/canales/L3/WINSPORTS.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latin America", LATINO: win +
+https://tv.teleclub.xyz/canales/L3/WINSPORTSPLUS.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latin America", LATINO: fox sport 1
+https://tv.teleclub.xyz/canales/L3/FOXSPORTS.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latin America", LATINO: fox sport 2
+https://tv.teleclub.xyz/canales/L3/FOXSPORTS2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latin America", LATINO: fox sport 3
+https://tv.teleclub.xyz/canales/L3/FOXSPORTS3.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latin America", LATINO: Espn
+https://tv.teleclub.xyz/canales/L4/ESPN.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latin America", LATINO: espn 2
+https://tv.teleclub.xyz/canales/L3/ESPN2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latin America", LATINO:  Espn 3
+https://tv.teleclub.xyz/canales/L3/ESPN3.m3u8
